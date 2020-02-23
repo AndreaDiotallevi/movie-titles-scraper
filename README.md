@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a simple web scraping script made with Python, to gather the best movies for all the countries in the world and save them into a usable JSON file. This work was done to help with my final project [Moovli](https://github.com/AndreaDiotallevi/moovli) at Makers Academy.
+This repository contains a simple web scraping script made with Python, to gather the best movies from all countries in the world and save them into a usable JSON file. This work was done to help with my final project [Moovli](https://github.com/AndreaDiotallevi/moovli) at Makers Academy.
 
 ## Prerequisites
 
