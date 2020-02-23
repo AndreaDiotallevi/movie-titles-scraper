@@ -147,38 +147,10 @@
     "The Inheritors",
     "Blind Spot. Hitler's Secretary"
   ],
-  " ": [
-    "Mr. Karl",
-    "Funny Games",
-    "The Counterfeiters",
-    "The Last Bridge",
-    "The White Ribbon",
-    "The Edukators",
-    "The Seventh Continent",
-    "The Piano Teacher",
-    "Sissi ",
-    "Fear",
-    "Der Bockerer",
-    "Mother's Day",
-    "Colonel Redl",
-    "Come Sweet Death",
-    "Benny's Video",
-    "India",
-    "Darwin's Nightmare",
-    "Revanche",
-    "Workingman's Death",
-    "The Bone Man",
-    "Comedian Harmonists",
-    "71 Fragments of a Chronicles of Chance",
-    "Code Unknown",
-    "Copy Shop",
-    "Fast Film",
-    "Dog Days",
-    "We Feed the World",
-    "The Inheritors",
-    "Blind Spot. Hitler's Secretary"
+  "Azerbaijan": [
+    "The Scoundrel"
   ],
-  "Bosnia and herzegovina": [
+  "Bosnia and Herzegovina": [
     "No Man's Land",
     "Walter Defends Sarajevo",
     "10 Minutes",
@@ -191,13 +163,10 @@
     "location de voiture casablanca",
     "location de voiture casablanca"
   ],
-  "Bahamas": [
-    "Rain"
-  ],
   "Bahrain": [
     "A Bahraini Tale"
   ],
-  "Bangladesh\u00a0": [
+  "Bangladesh": [
     "Taken From Life",
     "Song of Freedom",
     "Srabon Megher Din",
@@ -211,9 +180,6 @@
     "Titash Ekti Nadir Naam",
     "On the Wings of Dreams",
     "Guerilla"
-  ],
-  "Belarus": [
-    "Me Ivan, You Abraham"
   ],
   "Belgium": [
     "Man Bites Dog",
@@ -245,9 +211,6 @@
     "Ex Drummer",
     "With Friends Like These",
     "A Town Called Panic Panique au village"
-  ],
-  "Benin": [
-    "Arlit, deuxi\u00e8me Paris"
   ],
   "Bhutan": [
     "Travellers and Magicians",
@@ -336,7 +299,7 @@
     "Eastern Plays",
     "Glass Home"
   ],
-  "Burkina faso": [
+  "Burkina Faso": [
     "Kounandi",
     "Yaaba",
     "The Night of Truth",
@@ -347,12 +310,9 @@
     "God's Gift",
     "Buried Dreams"
   ],
-  "Burma (myanmar)": [
+  "Myanmar (Burma)": [
     "Burma VJ: Reporting from a Closed Country",
     "Total Denial"
-  ],
-  "Burundi": [
-    "Gito, the Ungrateful"
   ],
   "Cambodia": [
     "Bophana: A Cambodian Tragedy",
@@ -419,7 +379,7 @@
     "Our Father",
     "A Screaming Man"
   ],
-  "Chile\u00a0": [
+  "Chile": [
     "The Battle of Chile: Part 1,2,3",
     "The Holy Mountain",
     "Dialogues of Exiles",
@@ -496,12 +456,6 @@
     "Our Lady of the Assassins",
     "Bluff"
   ],
-  "Congo": [],
-  "Costa rica": [
-    "This is Like That",
-    "Happy New Years",
-    "The Red Sky"
-  ],
   "Croatia": [
     "Beggars and Children",
     "H-8",
@@ -539,7 +493,7 @@
     "The Waiting List",
     "Havana Blues"
   ],
-  "Czech republic\u00a0": [
+  "Czech Republic": [
     "He Stood at the Till",
     "Potkali se u Kol\u00edna",
     "Closely Watched Trains",
@@ -625,7 +579,7 @@
     "Just Another Love Story",
     "Inheritance"
   ],
-  "Dominican republic": [
+  "Dominican Republic": [
     "Balaguer: The Legacy of Tirans",
     "Trujillo (1,2,3)",
     "Guaguasi",
@@ -636,7 +590,7 @@
     "Rodents",
     "How Much Further"
   ],
-  "Egypt\u00a0": [
+  "Egypt": [
     "The Nightingale's Prayer",
     "The Flirtation of Girls",
     "A Beginning and an End",
@@ -712,7 +666,7 @@
     "Letters to Father Jaakob",
     "Raid"
   ],
-  "France\u00a0": [
+  "France": [
     "L\u00e9on",
     "Amelie",
     "A Trip to the Moon",
@@ -903,7 +857,7 @@
     "Since Otar Left",
     "The Hoary Legends of the Caucasus"
   ],
-  "Germany\u00a0": [
+  "Germany": [
     "M",
     "Metropolis",
     "Nosferatu: A Symphony of Horror",
@@ -1010,7 +964,7 @@
     "Denko",
     "I.T.  Immatriculation temporaire"
   ],
-  "Guinea bissau": [
+  "Guinea Bissau": [
     "Death Denied",
     "Po di Sangui"
   ],
@@ -1023,10 +977,7 @@
     "Haiti: The end of illusions?",
     "Of Men and Gods"
   ],
-  "Honduras": [
-    "Calixto the Landlord"
-  ],
-  "Hungary\u00a0": [
+  "Hungary": [
     "The Corporal and Others",
     "Indul a bakterh\u00e1z",
     "Hyppolit, the Butler",
@@ -1224,7 +1175,7 @@
     "Hear My Song",
     "The Secret of Kells"
   ],
-  "Israel\u00a0": [
+  "Israel": [
     "Waltz with Bashir",
     "Promises",
     "Halfon Hill Doesn't Answer",
@@ -1253,7 +1204,7 @@
     "Alex Is Lovesick",
     "Ajami"
   ],
-  "Italy\u00a0": [
+  "Italy": [
     "The Good, the Bad and the Ugly",
     "Once Upon a Time in the West ",
     "Bicycle Thieves",
@@ -1446,7 +1397,7 @@
     "Bal-Can-Can",
     "Goodbye, 20th Century"
   ],
-  "Malaysia\u00a0": [
+  "Malaysia": [
     "Three Bachelors",
     "Rivals Three",
     "Labu and Labi",
@@ -1495,9 +1446,6 @@
     "We the Poor",
     "The Devil's Backbone",
     "The Young One"
-  ],
-  "Monaco": [
-    "NY, the Lost Civilization"
   ],
   "Mongolia": [
     "Chuchelo",
@@ -1549,7 +1497,7 @@
     "Interview",
     "Yes Nurse! No Nurse!"
   ],
-  "New zealand": [
+  "New Zealand": [
     "The Lord of the Rings",
     "King Kong",
     "Braindead",
@@ -1585,7 +1533,7 @@
     "Osuofia in London",
     "Legacy"
   ],
-  "North korea": [
+  "North Korea": [
     "Repatriation",
     "Hero"
   ],
@@ -1620,9 +1568,6 @@
     "The Other Side of Sunday",
     "The Troll Hunter"
   ],
-  "Oman": [
-    "Al-boom"
-  ],
   "Pakistan": [
     "Mr Jinnah: The Making of Pakistan",
     "The Day Shall Dawn",
@@ -1650,14 +1595,14 @@
     "Divine Intervention",
     "Tears of Gaza"
   ],
-  "Panama\u00a0": [
+  "Panama": [
     "The Wind and the Water",
     "One Dollar"
   ],
-  "Papua new guinea\u00a0": [
+  "Papua New Guinea": [
     "Black Harvest"
   ],
-  "Peru\u00a0": [
+  "Peru": [
     "The Green Wall",
     "The City and the Dogs",
     "Fallen from Heaven",
@@ -1757,7 +1702,7 @@
     "Chasing Life",
     "Mysteries of Lisbon"
   ],
-  "Puerto rico\u00a0": [
+  "Puerto Rico": [
     "The Ballplayers",
     "Santiago, the Story of His New Life",
     "A Flight of Hope",
@@ -1833,7 +1778,7 @@
     "Keepers of Memory",
     "Munyurangabo"
   ],
-  "Saudi arabia": [
+  "Saudi Arabia": [
     "Cinema 500 km",
     "Aayesh"
   ],
@@ -1913,7 +1858,7 @@
     " Rooster's Breakfast",
     "Outsider"
   ],
-  "South africa": [
+  "South Africa": [
     "District 9",
     "Jerusalema",
     "Animals Are Beautiful People",
@@ -1931,7 +1876,7 @@
     "Amandla! A Revolution in Four Part Harmony ",
     "Proteus"
   ],
-  "South korea": [
+  "South Korea": [
     "Oldboy ",
     "Spring, Summer, Fall, Winter... and Spring",
     "My Sassy Girl",
@@ -1969,7 +1914,7 @@
     "The Man from Nowhere",
     "I Saw the Devil"
   ],
-  "Spain\u00a0": [
+  "Spain": [
     "An Andalusian Dog",
     "The Machinist",
     "Viridiana",
@@ -2020,7 +1965,7 @@
     "Dark Blue Almost Black",
     "Biutiful"
   ],
-  "Sri lanka\u00a0": [
+  "Sri Lanka": [
     "From Dust",
     "The Third Wave",
     "Agnidahaya",
@@ -2086,7 +2031,7 @@
     "Rebels of the Neon God",
     "Vive L'Amour"
   ],
-  "Tajikistan\u00a0": [
+  "Tajikistan": [
     "Luna Papa",
     "The Silence",
     "Kosh ba kosh"
@@ -2120,7 +2065,7 @@
     "The Right and the Wrong",
     "A Winter Tale"
   ],
-  "Tunisia\u00a0": [
+  "Tunisia": [
     "The Magic",
     "Layla",
     "The Silences of the Palace",
@@ -2128,7 +2073,7 @@
     "VHS - Kahloucha",
     "The Dove's Lost Necklace"
   ],
-  "Best of turkish cinema": [
+  "Turkey": [
     "BEST DIRECTORS FROM TURKEY - TOP 30",
     "Ertem E\u011filmez",
     "At\u0131f Y\u0131lmaz",
@@ -2233,7 +2178,7 @@
     "Everything Is Illuminated",
     "A Driver for Vera"
   ],
-  "United kingdom": [
+  "United Kingdom": [
     "Dr. Strangelove",
     "A Clockwork Orange",
     "Monty Python and the Holy Grail",
@@ -2260,9 +2205,11 @@
     "Dial M For Murder",
     "Planet Earth"
   ],
-  "United states of america": [
-    "Star Wars",
+  "United States": [
     "The Godfather",
+    "Rocky",
+    "Inception",
+    "Star Wars",
     "The Shawshank Redemption",
     "Indiana Jones",
     "Casablanca",
@@ -2319,438 +2266,5 @@
     "Journey from the Fall",
     "The Buffalo Boy",
     "Fool for Love"
-  ],
-  "Zimbabwe": [
-    "Music by Prudence"
-  ],
-  "Top 150 directors of the cinema": [
-    "Ingmar Bergman",
-    "Alfred Hitchcock",
-    "Luis Bu\u00f1uel",
-    "Steven Spielberg",
-    "John Ford",
-    "Akira Kurosawa",
-    "Federico Fellini ",
-    "Fritz Lang",
-    "Jean-Luc Godard",
-    "Martin Scorsese",
-    "Stanley Kubric",
-    "k",
-    "Pedro Almod\u00f3var",
-    "10 Films\u00a0",
-    "Yasujiro Ozu",
-    "George Cukor",
-    "Howard Hawks",
-    "Billy Wilder",
-    "Charlie Chaplin",
-    "Woody Allen",
-    "Jean Renoir",
-    "9 Films\u00a0",
-    "Luchino Visconti ",
-    "Hsiao-Hsien Hou",
-    "Krzysztof Kie\u015blowski",
-    "8 Films\u00a0",
-    "William Wyler",
-    "Coen Brothers ",
-    "Clint Eastwood",
-    "Roman Polanski",
-    "Yimou Zhang",
-    "Orson Welles",
-    "Michael Haneke",
-    "Tim Burton",
-    "7 Films\u00a0",
-    "Werner Herzog",
-    "Kenji Mizoguchi",
-    "Ertem Egilmez",
-    "Kar Wai Wong",
-    "Aki Kaurism\u00e4ki",
-    "Abbas Kiarostami ",
-    "Satyajit Ray",
-    "Theodoros Angelopoulos ",
-    "Robert Bresson",
-    "Peter Jackson",
-    "Michelangelo Antonioni",
-    "Chuck Jones",
-    "D. W. Griffith",
-    "Andrei Tarkovsky",
-    "David Lean",
-    "John Huston",
-    "Ridley Scott",
-    "Peter Weir",
-    "6 Films\u00a0",
-    "Ki-duk Kim",
-    "Wim Wenders",
-    "Rainer Werner Fassbinder",
-    "Max Oph\u00fcls",
-    "Ousmane Sembene",
-    "Ang Lee",
-    "Francisco J. Lombardi",
-    "Andrzej Wajda",
-    "Fran\u00e7ois Truffaut",
-    "Lars von Trier",
-    "Carl Theodor Dreyer",
-    "Buster Keaton",
-    "Hayao Miyazaki",
-    "Michael Curtiz ",
-    "Manoel de Oliveira",
-    "David Lynch",
-    "Emir Kusturica ",
-    "Chan-Wook Park",
-    "Sergio Leone",
-    "5 Films\u00a0",
-    "Louis Malle",
-    "Robert Altman",
-    "Frank Capra",
-    "Michael Powell",
-    "Bernardo Bertolucci",
-    "Paul Verhoeven",
-    "Jean-Pierre Melville",
-    "Alejandro Amen\u00e1bar",
-    "Alain Resnais",
-    "Christopher Nolan",
-    "Roberto Rossellini",
-    "F.W. Murnau",
-    "Vincente Minnelli",
-    "Dardenne Brothers",
-    "Istv\u00e1n Szab\u00f3",
-    "Ivo Caprino",
-    "Tsai Ming-liang",
-    "Edward F. Cline",
-    "Ernst Lubitsch",
-    "George Stevens",
-    "4 Films\u00a0",
-    "Youssef  Chahine",
-    "Tomas Gutierrez Alea",
-    "Elia Kazan",
-    "Milos Forman",
-    "Paul Greengrass",
-    "Edward Yang",
-    "P. Ramlee",
-    "Adolfo Aristarain",
-    "David Fincher",
-    "Richard Curtis",
-    "Masaki Kobayashi ",
-    "Marcel Carn\u00e9",
-    "Sergei  Parajanov",
-    "Kim Ji-woon",
-    "Tengiz Abuladze",
-    "Stanley Donen",
-    "David Cronenberg",
-    "Darren Aronofsky",
-    "Brian De Palma",
-    "Michael Cacoyannis",
-    "Majid Majidi",
-    "Michael Mann",
-    "Leo McCarey",
-    "Fred Zinnemann",
-    "Mohsen Makhmalbaf",
-    "Jafar Panahi",
-    "Jan Troell",
-    "Cecil B. DeMille",
-    "James Cameron",
-    "Preston Sturges",
-    "Quentin Tarantino",
-    "Jean-Jacques Annaud",
-    "Haile Gerima",
-    "Jacques Tati",
-    "Henri-Georges Clouzot",
-    "Ji\u0159\u00ed Menzel",
-    "Ren\u00e9 Clair",
-    "Carol Reed",
-    "Walter Salles",
-    "Josef von Sternberg",
-    "Vittorio De Sica",
-    "Rob Reiner",
-    "Sidney Lumet",
-    "Jim Jarmusch",
-    "Sam Peckinpah",
-    "Robert Zemeckis",
-    "Francis Ford Coppola",
-    "Emeric Pressburger",
-    "Rouben Mamoulian",
-    "Arthur Penn",
-    "Henry  Barakat",
-    "Nae Caranfil",
-    "3 Films ",
-    "Sergei  M. Eisenstein",
-    "King Vidor",
-    "Robert Wise",
-    "Victor Fleming",
-    "Joseph L. Mankiewicz",
-    "Mike Leigh",
-    "William A. Wellman",
-    "Nicholas Ray",
-    "Raoul Walsh",
-    "Mike Nichols"
-  ],
-  "All time greatest 50 actresses of the cinema": [
-    "10 Films",
-    "7 Films",
-    "Gloria Swanson",
-    "Lillian Gish",
-    "Gong Li",
-    "6 Films",
-    "Jean Arthur",
-    "Katharine Hepburn",
-    "Ingrid Bergman",
-    "Juliette Binoche",
-    "Jeanne Moreau",
-    "Pen\u00e9lope Cruz",
-    "Ingrid Thulin",
-    "Catherine Deneuve",
-    "Anna Karina",
-    "Carmen Maura",
-    "Joan Crawford",
-    "5 Films",
-    "Greta Garbo",
-    "Natalie Portman",
-    "Lauren Bacall ",
-    "Helen Mirren",
-    "Marlene Dietrich",
-    "Jean Simmons",
-    "Gena Rowlands",
-    "Krystyna Janda",
-    "Audrey Hepburn",
-    "Hiam Abbass",
-    "Harriet Andersson",
-    "4 Films",
-    "Kinuyo Tanaka",
-    "Meryl Streep",
-    "Cate Blanchett",
-    "Virginia Fox",
-    "Giulietta Masina",
-    "Gene Tierney",
-    "Deborah Kerr",
-    "Ellen Burstyn",
-    "Cameron Diaz ",
-    "Diane Keaton",
-    "Shelley Winters",
-    "Alida Valli",
-    "Claudia Cardinale",
-    "T\u00fcrkan Soray",
-    "Kate Winslet",
-    "Faye Dunaway",
-    "Faten Hamama",
-    "3 Films ",
-    "Marion Davies",
-    "Bette Davis",
-    "Joan Fontaine",
-    "Jean Harlow",
-    "Grace Kelly",
-    "Barbara Stanwyck",
-    "Judy Garland"
-  ],
-  "All time greatest 100 actors of the cinema": [
-    "15 Films",
-    "James Stewart",
-    "14 Films",
-    "Max von Sydow",
-    "13 Films",
-    "\u015eener \u015een",
-    "Buster Keaton",
-    "12 Films",
-    "Clint Eastwood",
-    "Al Pacino",
-    "Brad Pitt",
-    "11 Films",
-    "Humphrey Bogart ",
-    "Robert De Niro",
-    "Tony Leung Chiu Wai",
-    "Charlie Chaplin",
-    "Jack Nicholson",
-    "10 Films",
-    "Toshir\u00f4 Mifune",
-    "Cary Grant",
-    "9 Films",
-    "Johnny Depp",
-    "Tom Cruise",
-    "Henry Fonda",
-    "Erland Josephson",
-    "Russell Crowe",
-    "John Wayne",
-    "8 Films",
-    "7 Films",
-    "6 Films",
-    "5 Films",
-    "4 Films"
-  ],
-  "1000 greatest films of the cinema": [
-    "Star Wars",
-    "The Godfather",
-    "The Lord of the Rings",
-    "The Shawshank Redemption",
-    "Indiana Jones",
-    "Casablanca",
-    "Pulp Fiction",
-    "The Dark Knight ",
-    "The Matrix ",
-    "Play It! (Full Movie)",
-    "The Terminator",
-    "Fight Club",
-    "One Flew Over the Cuckoo's Nest",
-    "Play It! (Full Movie)",
-    "Play It! (Full Movie)",
-    "The Good, the Bad and the Ugly",
-    "Schindler's List",
-    "Dr. Strangelove",
-    "Psycho",
-    "12 Angry Men",
-    "Play It! (Full Movie)",
-    "It's a Wonderful Life",
-    "Rear Window",
-    "Forrest Gump",
-    "Harry Potter",
-    "Die Hard",
-    "Back to the Future",
-    "The Usual Suspects",
-    "Goodfellas",
-    "A Clockwork Orange",
-    "Se7en",
-    "American Beauty",
-    "The Wizard of Oz",
-    "The Silence of the Lambs",
-    "The Seven Samurai",
-    "Kill Bill",
-    "Memento",
-    "Apocalypse Now Redux",
-    "2001: A Space Odyssey",
-    " Saving Private Ryan ",
-    "\u00a0Play It! (Full Movie)",
-    "Pirates of the Caribbean ",
-    "Alien",
-    "Taxi Driver",
-    "Raiders of the Lost Ark",
-    "Monty Python and the Holy Grail",
-    "Play It! (Full Movie)",
-    "The Shining",
-    "Vertigo",
-    "North by Northwest",
-    "Braveheart",
-    "American History X",
-    "The Departed ",
-    "M",
-    "Play It! (Full Movie)",
-    "Gone with the Wind",
-    "Gladiator ",
-    "L\u00e9on",
-    "Blade Runner",
-    "Reservoir Dogs",
-    "Aliens",
-    "Metropolis",
-    "Sunset Boulevard ",
-    "Casino Royale",
-    "Batman Begins",
-    "Sin City",
-    "Lawrence of Arabia",
-    "Toy Story",
-    "Band of Brothers",
-    "The Maltese Falcon",
-    "To Kill a Mockingbird",
-    "Jaws",
-    "Once Upon a Time in the West",
-    "City of God",
-    "The Sixth Sense",
-    "City Lights",
-    "Rocky ",
-    "Ran",
-    "The 39 Steps",
-    "The Third Man ",
-    "Eternal Sunshine of the Spotless Mind",
-    "Full Metal Jacket",
-    "Double Indemnity",
-    "Amelie",
-    "Donnie Darko",
-    "Modern Times",
-    "The Bridge on the River Kwai",
-    "Singin' in the Rain",
-    "The Green Mile",
-    "Some Like It Hot",
-    "Requiem for a Dream",
-    "L.A. Confidential",
-    "The Great Dictator",
-    "Scarface",
-    "X-Men",
-    "Rebecca",
-    "Mr. Smith Goes to Washington",
-    "Shrek",
-    "The Prestige",
-    "V for Vendetta",
-    "King Kong",
-    "The General",
-    "Fargo",
-    "WALL\u00b7E",
-    "Arrested Development",
-    "Paths of Glory"
-  ],
-  "\u00a0\u00a0\u00a0": [
-    "Seinfeld",
-    "The      Twilight Zone",
-    "South      Park",
-    "Friends",
-    "Scrubs",
-    "The      Sopranos",
-    "Firefly",
-    "The      Office",
-    "The      Wire"
-  ],
-  "100 best asian movies ": [
-    "Shichinin no Samurai",
-    "Ran",
-    "Rashomon",
-    "Slumdog Millionaire",
-    "Sen Chihiro no Kamikakushi",
-    "Yojimbo",
-    "Oldboy",
-    "Wo hu cang long",
-    "Mononoke-hime",
-    "Gandhi"
-  ],
-  "100 best movies of 2000s ": [
-    "The Lord of the Rings",
-    "The Dark Knight",
-    "Inception",
-    "Harry Potter",
-    "Kill Bill",
-    "Memento",
-    "Pirates of the Caribbean",
-    "The Departed",
-    "Gladiator",
-    "Batman Begins"
-  ],
-  "100 best latin movies ": [
-    "Cidade de Deus",
-    "El Laberinto del Fauno",
-    "Children of Men",
-    "Amores perros",
-    "Babel",
-    "Los Olvidados",
-    "El \u00e1ngel exterminador",
-    "Una familia de tantas",
-    "El chavo del ocho",
-    "Diarios de motocicleta"
-  ],
-  "50 best african movies ": [
-    "District 9",
-    "La battaglia di Algeri",
-    "The Message",
-    "Doaa al-Karawan",
-    "Adieu m\u00e8res",
-    "Jerusalema",
-    "Animals Are Beautiful People",
-    "Le retour d'un aventurier",
-    "The Naked Prey",
-    "The Gods Must Be Crazy"
-  ],
-  "50 best arabic movies (arab league countries)": [
-    "La battaglia di Algeri",
-    "The Message",
-    "Doaa al-Karawan",
-    "Ghazal Al Banat",
-    "Lion of the Desert",
-    "Bidaya wa Nihaya",
-    "Soleil O",
-    "Bab el hadid",
-    "Losing Ahmad"
-  ],
-  "\u00a0\u00a0": []
+  ]
 }
