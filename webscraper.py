@@ -3,7 +3,7 @@ import requests
 import json
 from unidecode import unidecode
 
-url = "http://istanbulfilms.blogspot.com/2010/05/top-films-from-guinea-1.html"
+url = "http://istanbulfilms.blogspot.com"
 response = requests.get(url, timeout=5)
 content = BeautifulSoup(response.content, "html.parser")
 
